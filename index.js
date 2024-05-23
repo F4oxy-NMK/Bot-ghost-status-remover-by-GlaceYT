@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["discord.gg/malavita-del-sud","Malavita del sud BOT","malavita Del Sud By F4oxy"];
 
 
 let currentIndex = 0;
